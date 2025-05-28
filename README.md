@@ -1,6 +1,6 @@
 ### Real Estate Price Forecasting
 
-- This project focuses on analyzing and forecasting real estate sale prices across the state of Connecticut using over two decades of property transaction data (2001–2022). It uses machine learning models and time-series forecasting techniques to provide actionable insights for investors, realtors, and policy makers.
+This project focuses on analyzing and forecasting real estate sale prices across the state of Connecticut using over two decades of property transaction data (2001–2022). It uses machine learning models and time-series forecasting techniques to provide actionable insights for investors, realtors, and policy makers.
 
 - Project Goals
   
