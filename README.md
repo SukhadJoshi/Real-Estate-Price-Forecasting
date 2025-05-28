@@ -33,9 +33,13 @@ Dealing with outliers from extremely high-value sales.
 - Team Members
   
 Kulveen Kaur
+
 Sukhad Joshi
+
 Vaibhav Gaikwad
+
 Biswadip Bhattacharyyaa
+
 Mihir Nilesh Holmukhe
 
 - Future Enhancements
