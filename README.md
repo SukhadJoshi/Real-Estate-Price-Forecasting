@@ -38,7 +38,7 @@ Sukhad Joshi
 
 Vaibhav Gaikwad
 
-Biswadip Bhattacharyyaa
+Biswadip Bhattacharyya
 
 Mihir Nilesh Holmukhe
 
